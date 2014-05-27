@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhoneHeapMemoryTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="soft_limit">The soft limit on heap size is: %1$d MB\n\n
+		This is the suggested amount you should limit your 
+        application to in order to prevent the application from 
+        interfering with normal device operation</string>
+    <string name="hard_limit">The hard limit on heap size is: %1$d %2$s\n\n
+		This is the largest value to which the heap can grow. 
+		Exceeding this limit will (almost certainly) cause an 
+		OutOfMemory Exception</string>
+
+</resources>
